@@ -1,3 +1,3 @@
-// let chiao = 'hello';
+let fruits = ["Ананас", "Бананас", "Картафан"];
 
-// document.write(chiao);
+//console.log(fruits.indexOf("Картафан"));
