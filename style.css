@@ -319,7 +319,7 @@ select {
 	appearance: none;
 }
 
-input[type="date"] ::-webkit-calendar-picker-indikator {
+input[type="date"]::-webkit-calendar-picker-indicator {
 	background: url("./assets/images/Calendar.svg") no-repeat;
 }
 
