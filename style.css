@@ -357,6 +357,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 
     .main-image {
         align-self: center;
+
     }
 
     .table {
@@ -387,7 +388,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     }
 
     .create-account-section {
-        padding-top: 50px;
+        padding: 50px 50px;
     }
 }
 
@@ -408,7 +409,19 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 
     .main-title {
         font-size: 52px;
-        line-height: 60;
+        line-height: 60px;
+    }
+
+    .main-image {
+        width: 100%;
+    }
+
+    .rates-section {
+        padding: 30px 15px;
+    }
+
+    .create-account-section {
+        padding: 30px 15px;
     }
 
     .account-wrapper {
